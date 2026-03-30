@@ -1,0 +1,40 @@
+{
+  "state": "institutional-draft-ready",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Clinic Website"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Software",
+    "resourceType": "Static site"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-website-7.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "MIT",
+      "rights": "MIT"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-website-7.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/clinic-website-7.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/clinic-website-7.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

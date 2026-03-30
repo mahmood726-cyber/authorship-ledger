@@ -1,0 +1,40 @@
+{
+  "state": "awaiting-release",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Fatiha Course v2"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Text",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-v2-57.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "CC-BY-4.0",
+      "rights": "CC-BY-4.0"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-v2-57.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/fatiha-course-v2-57.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/fatiha-course-v2-57.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

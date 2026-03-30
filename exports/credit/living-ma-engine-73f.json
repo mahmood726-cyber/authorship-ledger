@@ -1,0 +1,12 @@
+{
+  "project": "Living MA Engine",
+  "slug": "living-ma-engine-73f",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

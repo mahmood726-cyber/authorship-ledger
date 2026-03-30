@@ -1,0 +1,12 @@
+{
+  "project": "Evidence Half-Life",
+  "slug": "evidence-half-life-108",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

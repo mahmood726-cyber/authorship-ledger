@@ -1,0 +1,14 @@
+{
+  "project": "advanced-nma-pooling",
+  "slug": "advanced-nma-pooling-97",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/advanced-nma-pooling-97.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/advanced-nma-pooling-97.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for advanced-nma-pooling, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

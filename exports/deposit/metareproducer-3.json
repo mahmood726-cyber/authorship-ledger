@@ -1,0 +1,40 @@
+{
+  "state": "institutional-draft-ready",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "MetaReproducer"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Software",
+    "resourceType": "Python pipeline+HTML"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metareproducer-3.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "MIT",
+      "rights": "MIT"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metareproducer-3.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/metareproducer-3.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/metareproducer-3.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

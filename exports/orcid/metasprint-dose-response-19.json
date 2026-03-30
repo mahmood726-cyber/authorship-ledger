@@ -1,0 +1,14 @@
+{
+  "project": "MetaSprint Dose-Response",
+  "slug": "metasprint-dose-response-19",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dose-response-19.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metasprint-dose-response-19.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for MetaSprint Dose-Response, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

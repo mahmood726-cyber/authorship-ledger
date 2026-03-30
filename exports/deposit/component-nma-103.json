@@ -1,0 +1,40 @@
+{
+  "state": "awaiting-authorship",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Component NMA"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Model",
+    "resourceType": "Model"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/component-nma-103.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "MIT",
+      "rights": "MIT"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/component-nma-103.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/component-nma-103.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/component-nma-103.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

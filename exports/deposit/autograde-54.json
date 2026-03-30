@@ -1,0 +1,40 @@
+{
+  "state": "institutional-draft-ready",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "AutoGRADE"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/autograde-54.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "CC-BY-4.0",
+      "rights": "CC-BY-4.0"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/autograde-54.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/autograde-54.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/autograde-54.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

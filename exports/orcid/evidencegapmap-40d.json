@@ -1,0 +1,14 @@
+{
+  "project": "EvidenceGapMap",
+  "slug": "evidencegapmap-40d",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencegapmap-40d.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/evidencegapmap-40d.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for EvidenceGapMap, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

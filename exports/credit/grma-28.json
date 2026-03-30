@@ -1,0 +1,12 @@
+{
+  "project": "GRMA",
+  "slug": "grma-28",
+  "defaultRoles": [
+    "Conceptualization",
+    "Software",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

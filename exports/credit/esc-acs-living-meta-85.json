@@ -1,0 +1,12 @@
+{
+  "project": "esc-acs-living-meta",
+  "slug": "esc-acs-living-meta-85",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

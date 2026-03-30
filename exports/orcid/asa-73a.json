@@ -1,0 +1,14 @@
+{
+  "project": "Asa",
+  "slug": "asa-73a",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-73a.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/asa-73a.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for Asa, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

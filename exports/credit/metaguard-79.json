@@ -1,0 +1,12 @@
+{
+  "project": "MetaGuard",
+  "slug": "metaguard-79",
+  "defaultRoles": [
+    "Conceptualization",
+    "Software",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

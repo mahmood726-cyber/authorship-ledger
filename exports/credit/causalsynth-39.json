@@ -1,0 +1,12 @@
+{
+  "project": "CausalSynth",
+  "slug": "causalsynth-39",
+  "defaultRoles": [
+    "Conceptualization",
+    "Software",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

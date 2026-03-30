@@ -1,0 +1,12 @@
+{
+  "project": "Bayesian MA",
+  "slug": "bayesian-ma-109",
+  "defaultRoles": [
+    "Conceptualization",
+    "Software",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

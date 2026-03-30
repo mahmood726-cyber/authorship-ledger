@@ -1,0 +1,14 @@
+{
+  "project": "hfpef_registry_calibration",
+  "slug": "hfpef-registry-calibration-83",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hfpef-registry-calibration-83.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/hfpef-registry-calibration-83.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for hfpef_registry_calibration, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

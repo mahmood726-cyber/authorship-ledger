@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AuthorshipLedger E156</title>
+  <style>
+    :root {
+      --bg: #f8f4ed;
+      --panel: #fffdf8;
+      --ink: #1f2830;
+      --muted: #5b6670;
+      --line: rgba(31, 40, 48, 0.14);
+      --accent: #7a4a12;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: "Aptos", "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(122, 74, 18, 0.12), transparent 30%),
+        linear-gradient(180deg, #fcf8f1 0%, var(--bg) 100%);
+    }
+    .wrap {
+      width: min(900px, calc(100% - 28px));
+      margin: 0 auto;
+      padding: 28px 0 40px;
+    }
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      padding: 24px;
+      box-shadow: 0 18px 42px rgba(44, 35, 24, 0.09);
+      margin-bottom: 20px;
+    }
+    h1, h2 { font-family: "Georgia", "Palatino Linotype", serif; margin: 0 0 12px; }
+    .eyebrow {
+      margin: 0 0 8px;
+      font-size: 0.75rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+    .body-copy { line-height: 1.7; color: var(--muted); }
+    .link-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+    a {
+      display: block;
+      padding: 14px 16px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      text-decoration: none;
+      color: inherit;
+      background: rgba(255, 255, 255, 0.7);
+    }
+    strong { display: block; margin-bottom: 4px; }
+    @media (max-width: 700px) {
+      .link-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="panel">
+      <p class="eyebrow">E156 Reader</p>
+      <h1>AuthorshipLedger</h1>
+      <p class="body-copy" id="paper-body"></p>
+    </section>
+
+    <section class="panel">
+      <p class="eyebrow">Artifacts</p>
+      <h2>Links</h2>
+      <div class="link-grid">
+        <a href="paper.md"><strong>Paper</strong><span>Plain-text E156 paper source.</span></a>
+        <a href="protocol.md"><strong>Protocol</strong><span>Study protocol and references.</span></a>
+        <a href="paper.json"><strong>Paper JSON</strong><span>Machine-readable E156 metadata.</span></a>
+        <a href="assets/dashboard.html"><strong>Dashboard</strong><span>Compact visual summary.</span></a>
+        <a href="https://github.com/mahmood726-cyber/authorship-ledger"><strong>GitHub Repo</strong><span>Full code and bundled snapshots.</span></a>
+        <a href="https://mahmood726-cyber.github.io/authorship-ledger/"><strong>Public App</strong><span>Root deposit queue dashboard.</span></a>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    fetch("paper.json")
+      .then((response) => response.json())
+      .then((paper) => {
+        document.getElementById("paper-body").textContent = paper.body;
+      });
+  </script>
+</body>
+</html>

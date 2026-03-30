@@ -1,0 +1,40 @@
+{
+  "state": "awaiting-authorship",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Burhan"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/burhan-59.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "CC-BY-4.0",
+      "rights": "CC-BY-4.0"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/burhan-59.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/burhan-59.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/burhan-59.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

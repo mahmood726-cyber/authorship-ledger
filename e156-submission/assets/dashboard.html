@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AuthorshipLedger Dashboard</title>
+  <style>
+    :root {
+      --bg: #f7f2ea;
+      --panel: rgba(255,255,255,0.86);
+      --ink: #1f2830;
+      --muted: #5b6670;
+      --line: rgba(31,40,48,0.12);
+      --accent: #7a4a12;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: "Aptos", "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at top left, rgba(122, 74, 18, 0.14), transparent 32%),
+        linear-gradient(180deg, #fbf7f0 0%, var(--bg) 100%);
+    }
+    .wrap {
+      width: min(980px, calc(100% - 26px));
+      margin: 0 auto;
+      padding: 24px 0 40px;
+    }
+    .hero, .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 22px;
+      box-shadow: 0 18px 44px rgba(44,35,24,0.10);
+      margin-bottom: 18px;
+    }
+    h1, h2 { margin: 0 0 12px; font-family: "Georgia", "Palatino Linotype", serif; }
+    .eyebrow {
+      margin: 0 0 8px;
+      font-size: 0.73rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+    .metric-grid, .gap-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .card {
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 16px;
+      background: rgba(255,255,255,0.62);
+    }
+    .card strong {
+      display: block;
+      font-size: 1.6rem;
+      margin-bottom: 6px;
+    }
+    .muted { color: var(--muted); line-height: 1.6; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 10px 8px; text-align: left; border-bottom: 1px solid var(--line); }
+    th { color: var(--muted); font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.08em; }
+    @media (max-width: 820px) {
+      .metric-grid, .gap-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 560px) {
+      .metric-grid, .gap-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <p class="eyebrow">E156 Dashboard</p>
+      <h1>AuthorshipLedger</h1>
+      <p class="muted">Compact summary of deposit drafts, governance readiness, and the unresolved authorship, ORCID, role, and license bottlenecks across the indexed portfolio.</p>
+    </section>
+
+    <section class="panel">
+      <p class="eyebrow">Metrics</p>
+      <h2>Overview</h2>
+      <div class="metric-grid" id="metrics"></div>
+    </section>
+
+    <section class="panel">
+      <p class="eyebrow">Gaps</p>
+      <h2>Backlog</h2>
+      <div class="gap-grid" id="gaps"></div>
+    </section>
+
+    <section class="panel">
+      <p class="eyebrow">Tier Pattern</p>
+      <h2>Institutional Drafts By Tier</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Tier</th>
+            <th>Projects</th>
+            <th>Mean score</th>
+            <th>Institutional drafts</th>
+          </tr>
+        </thead>
+        <tbody id="tiers"></tbody>
+      </table>
+    </section>
+  </div>
+
+  <script src="../../data.js"></script>
+  <script>
+    const data = window.AUTHORSHIP_LEDGER_DATA;
+    const metrics = [
+      ["Projects", data.metrics.trackedProjects],
+      ["High workflow", `${data.metrics.highWorkflowReadyCount} (${data.metrics.highWorkflowReadyPercent.toFixed(1)}%)`],
+      ["Institutional drafts", `${data.metrics.institutionalDraftReadyCount} (${data.metrics.institutionalDraftReadyPercent.toFixed(1)}%)`],
+      ["Fully registrable", `${data.metrics.fullyRegistrableCount} (${data.metrics.fullyRegistrablePercent.toFixed(1)}%)`],
+    ];
+    document.getElementById("metrics").innerHTML = metrics.map(([label, value]) => `
+      <div class="card"><strong>${value}</strong><span>${label}</span></div>
+    `).join("");
+    document.getElementById("gaps").innerHTML = data.gapBreakdown.map((item) => `
+      <div class="card"><strong>${item.count}</strong><span>${item.label}</span></div>
+    `).join("");
+    document.getElementById("tiers").innerHTML = data.tiers.map((item) => `
+      <tr>
+        <td>${item.tier}</td>
+        <td>${item.count}</td>
+        <td>${item.meanScore.toFixed(1)}</td>
+        <td>${item.institutionalDrafts}</td>
+      </tr>
+    `).join("");
+  </script>
+</body>
+</html>

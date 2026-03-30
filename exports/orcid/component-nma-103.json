@@ -1,0 +1,14 @@
+{
+  "project": "Component NMA",
+  "slug": "component-nma-103",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/component-nma-103.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/component-nma-103.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for Component NMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

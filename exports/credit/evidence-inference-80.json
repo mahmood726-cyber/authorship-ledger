@@ -1,0 +1,12 @@
+{
+  "project": "evidence-inference",
+  "slug": "evidence-inference-80",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

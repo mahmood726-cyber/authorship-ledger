@@ -1,0 +1,40 @@
+{
+  "state": "institutional-draft-ready",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Living MA Engine"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-ma-engine-73f.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "CC-BY-4.0",
+      "rights": "CC-BY-4.0"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-ma-engine-73f.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/living-ma-engine-73f.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/living-ma-engine-73f.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

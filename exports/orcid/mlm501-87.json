@@ -1,0 +1,14 @@
+{
+  "project": "MLM501",
+  "slug": "mlm501-87",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mlm501-87.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/mlm501-87.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for MLM501, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

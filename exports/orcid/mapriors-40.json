@@ -1,0 +1,14 @@
+{
+  "project": "MAPriors",
+  "slug": "mapriors-40",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mapriors-40.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/mapriors-40.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for MAPriors, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

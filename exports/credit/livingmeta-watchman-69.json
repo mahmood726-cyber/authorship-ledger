@@ -1,0 +1,12 @@
+{
+  "project": "LivingMeta Watchman",
+  "slug": "livingmeta-watchman-69",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

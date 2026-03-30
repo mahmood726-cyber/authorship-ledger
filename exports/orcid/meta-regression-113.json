@@ -1,0 +1,14 @@
+{
+  "project": "Meta-Regression",
+  "slug": "meta-regression-113",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/meta-regression-113.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/meta-regression-113.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for Meta-Regression, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

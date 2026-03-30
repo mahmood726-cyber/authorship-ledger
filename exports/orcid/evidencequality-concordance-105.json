@@ -1,0 +1,14 @@
+{
+  "project": "EvidenceQuality (Concordance)",
+  "slug": "evidencequality-concordance-105",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencequality-concordance-105.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/evidencequality-concordance-105.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for EvidenceQuality (Concordance), provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

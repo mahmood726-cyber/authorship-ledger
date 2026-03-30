@@ -1,0 +1,14 @@
+{
+  "project": "ipd-meta-pro-link",
+  "slug": "ipd-meta-pro-link-94",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-meta-pro-link-94.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ipd-meta-pro-link-94.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for ipd-meta-pro-link, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

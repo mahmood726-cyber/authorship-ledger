@@ -1,0 +1,12 @@
+{
+  "project": "Asa",
+  "slug": "asa-73a",
+  "defaultRoles": [
+    "Conceptualization",
+    "Software",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

@@ -1,0 +1,12 @@
+{
+  "title": "AuthorshipLedger: DOI Deposit and Contributor Resolution for the C Drive Portfolio",
+  "slug": "authorship-ledger",
+  "date": "2026-03-30",
+  "path": ".",
+  "type": "methods",
+  "primary_estimand": "proportion of indexed projects reaching full DOI-registrable state",
+  "certainty": "moderate",
+  "repo_url": "https://github.com/mahmood726-cyber/authorship-ledger",
+  "site_url": "https://mahmood726-cyber.github.io/authorship-ledger/",
+  "dashboard_url": "https://mahmood726-cyber.github.io/authorship-ledger/e156-submission/assets/dashboard.html"
+}

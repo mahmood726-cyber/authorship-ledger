@@ -1,0 +1,12 @@
+{
+  "project": "MEM (Meta Ecosystem)",
+  "slug": "mem-meta-ecosystem-27",
+  "defaultRoles": [
+    "Conceptualization",
+    "Software",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

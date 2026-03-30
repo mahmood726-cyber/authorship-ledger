@@ -1,0 +1,12 @@
+{
+  "project": "new-app",
+  "slug": "new-app-73d",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

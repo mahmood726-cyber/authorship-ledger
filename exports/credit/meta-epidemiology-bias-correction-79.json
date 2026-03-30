@@ -1,0 +1,12 @@
+{
+  "project": "meta-epidemiology-bias-correction",
+  "slug": "meta-epidemiology-bias-correction-79",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

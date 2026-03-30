@@ -1,0 +1,12 @@
+{
+  "project": "SYNTHESIS (FATIHA)",
+  "slug": "synthesis-fatiha-29",
+  "defaultRoles": [
+    "Conceptualization",
+    "Software",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

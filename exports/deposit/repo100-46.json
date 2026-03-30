@@ -1,0 +1,40 @@
+{
+  "state": "awaiting-release",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "repo100"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo100-46.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "CC-BY-4.0",
+      "rights": "CC-BY-4.0"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo100-46.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/repo100-46.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/repo100-46.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

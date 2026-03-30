@@ -1,0 +1,12 @@
+{
+  "project": "MetaMethods",
+  "slug": "metamethods-80",
+  "defaultRoles": [
+    "Conceptualization",
+    "Software",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

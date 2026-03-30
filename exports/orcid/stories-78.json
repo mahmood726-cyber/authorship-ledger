@@ -1,0 +1,14 @@
+{
+  "project": "Stories",
+  "slug": "stories-78",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/stories-78.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/stories-78.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for Stories, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

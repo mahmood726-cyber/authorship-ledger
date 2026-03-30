@@ -1,0 +1,1610 @@
+{
+  "generatedAt": "2026-03-30T20:08:12+00:00",
+  "items": [
+    {
+      "project": "AdaptSim",
+      "slug": "adaptsim-6",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Al-Mizan",
+      "slug": "al-mizan-4",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Bias Forensics",
+      "slug": "bias-forensics-5",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "CardioOracle",
+      "slug": "cardiooracle-1",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaReproducer",
+      "slug": "metareproducer-3",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "501MLM",
+      "slug": "501mlm-23",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "501MLM_Submission",
+      "slug": "501mlm-submission-37b",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Asa",
+      "slug": "asa-63",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "AutoGRADE",
+      "slug": "autograde-54",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Bayesian MA",
+      "slug": "bayesian-ma-109",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "BenfordMA",
+      "slug": "benfordma-107",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "CausalSynth",
+      "slug": "causalsynth-39",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Clinic Site",
+      "slug": "clinic-site-74",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Clinic Website",
+      "slug": "clinic-website-7",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "CRES",
+      "slug": "cres-24",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "cv-rct-analysis",
+      "slug": "cv-rct-analysis-67",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "DTA Pro",
+      "slug": "dta-pro-10",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "EvidenceQuality (Concordance)",
+      "slug": "evidencequality-concordance-105",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "GRMA",
+      "slug": "grma-28",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "GWAM",
+      "slug": "gwam-26",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "HeterogeneityASE",
+      "slug": "heterogeneityase-22",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "HTA Artifact Standard",
+      "slug": "hta-artifact-standard-11",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "HTA Evidence Integrity",
+      "slug": "hta-evidence-integrity-49",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "HTA Oman",
+      "slug": "hta-oman-53",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "HTA Transportability",
+      "slug": "hta-transportability-50",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "HTA Unified Intel",
+      "slug": "hta-unified-intel-52",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "IPD-Meta-Pro",
+      "slug": "ipd-meta-pro-9",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "IPD-QMA",
+      "slug": "ipd-qma-25",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "LFA (cbamm)",
+      "slug": "lfa-cbamm-37a",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Living MA Engine",
+      "slug": "living-ma-engine-73f",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Living-Meta",
+      "slug": "living-meta-15",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MA Power",
+      "slug": "ma-power-106",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MA Workbench",
+      "slug": "ma-workbench-110",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MAPriors",
+      "slug": "mapriors-40",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Meta-Regression",
+      "slug": "meta-regression-113",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaExtract",
+      "slug": "metaextract-65",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaGuard",
+      "slug": "metaguard-79",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "metaoverfit",
+      "slug": "metaoverfit-30",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "metaoverfit-paper",
+      "slug": "metaoverfit-paper-37c",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaShift",
+      "slug": "metashift-108a",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaSprint Autopilot",
+      "slug": "metasprint-autopilot-16",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaSprint Cardio Universe",
+      "slug": "metasprint-cardio-universe-20",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaSprint Dose-Response",
+      "slug": "metasprint-dose-response-19",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaSprint DTA",
+      "slug": "metasprint-dta-17",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaSprint NMA",
+      "slug": "metasprint-nma-18",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "metaverse-robust-MA",
+      "slug": "metaverse-robust-ma-33",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MLMResearch",
+      "slug": "mlmresearch-34",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MultiverseMA",
+      "slug": "multiversema-38",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "NMA apps",
+      "slug": "nma-apps-12",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "OutcomeReportingBias",
+      "slug": "outcomereportingbias-40a",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "OverlapDetector",
+      "slug": "overlapdetector-40b",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Pairwise70",
+      "slug": "pairwise70-42",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Paper1 (cbamm)",
+      "slug": "paper1-cbamm-35",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Pooling Suite",
+      "slug": "pooling-suite-112",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Portfolio Site",
+      "slug": "portfolio-site-73e",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "PredictionGap",
+      "slug": "predictiongap-40c",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "PRISMA Checker",
+      "slug": "prisma-checker-107",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Private Website",
+      "slug": "private-website-75",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Pub Bias Suite",
+      "slug": "pub-bias-suite-111",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "pub-bias-simulation",
+      "slug": "pub-bias-simulation-31",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "RCT Extractor v2",
+      "slug": "rct-extractor-v2-41",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "rmstnma",
+      "slug": "rmstnma-32",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Shahzaib ICU",
+      "slug": "shahzaib-icu-58",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "SYNTHESIS (FATIHA)",
+      "slug": "synthesis-fatiha-29",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "TrialRadar",
+      "slug": "trialradar-64",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "UBCMA",
+      "slug": "ubcma-106",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Value-Based HTA",
+      "slug": "value-based-hta-51",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "wasserstein",
+      "slug": "wasserstein-37",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "ctgov-search-strategies",
+      "slug": "ctgov-search-strategies-66",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Dose-Response NMA",
+      "slug": "dose-response-nma-13",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Finrenone RapidMeta",
+      "slug": "finrenone-rapidmeta-21",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Fragility Atlas",
+      "slug": "fragility-atlas-2",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Pairwise AI",
+      "slug": "pairwise-ai-14",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Paper2",
+      "slug": "paper2-36",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "TruthCert PairwisePro",
+      "slug": "truthcert-pairwisepro-8",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Asa",
+      "slug": "asa-73a",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Burhan",
+      "slug": "burhan-59",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Component NMA",
+      "slug": "component-nma-103",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "DTA70",
+      "slug": "dta70-48",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Evidence Half-Life",
+      "slug": "evidence-half-life-108",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaMethods",
+      "slug": "metamethods-80",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "repo300-ENMA-SNMA",
+      "slug": "repo300-enma-snma-47",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "RMST Meta",
+      "slug": "rmst-meta-104",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "RoB Assessor",
+      "slug": "rob-assessor-102",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "WorldIPD",
+      "slug": "worldipd-61",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "WorldIPD-private",
+      "slug": "worldipd-private-62",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "EvidenceGapMap",
+      "slug": "evidencegapmap-40d",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MEM (Meta Ecosystem)",
+      "slug": "mem-meta-ecosystem-27",
+      "defaultRoles": [
+        "Conceptualization",
+        "Software",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "minireview",
+      "slug": "minireview-73",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Dataextractor",
+      "slug": "dataextractor-44",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Fatiha Course v2",
+      "slug": "fatiha-course-v2-57",
+      "defaultRoles": [
+        "Conceptualization",
+        "Investigation",
+        "Writing - original draft",
+        "Writing - review & editing"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "repo100",
+      "slug": "repo100-46",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "CochraneDataExtractor",
+      "slug": "cochranedataextractor-43",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "meta-epidemiology-bias-correction",
+      "slug": "meta-epidemiology-bias-correction-79",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Metanew",
+      "slug": "metanew-86",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "PFA AF LivingMeta",
+      "slug": "pfa-af-livingmeta-70",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "prognostic-meta",
+      "slug": "prognostic-meta-96",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Synthesis Course",
+      "slug": "synthesis-course-55",
+      "defaultRoles": [
+        "Conceptualization",
+        "Investigation",
+        "Writing - original draft",
+        "Writing - review & editing"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "3dvitreous-grapher",
+      "slug": "3dvitreous-grapher-68",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "advanced-nma-pooling",
+      "slug": "advanced-nma-pooling-97",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "childnajia",
+      "slug": "childnajia-76",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "claude-plugins",
+      "slug": "claude-plugins-102",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "claude-rct-work",
+      "slug": "claude-rct-work-101",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "esc-acs-living-meta",
+      "slug": "esc-acs-living-meta-85",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "everything-claude-code",
+      "slug": "everything-claude-code-93",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "evidence-inference",
+      "slug": "evidence-inference-80",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "experimental-meta-analysis",
+      "slug": "experimental-meta-analysis-91",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Fatiha Course",
+      "slug": "fatiha-course-56",
+      "defaultRoles": [
+        "Conceptualization",
+        "Investigation",
+        "Writing - original draft",
+        "Writing - review & editing"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "glm-code",
+      "slug": "glm-code-104",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "hfpef_registry_calibration",
+      "slug": "hfpef-registry-calibration-83",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "hfpef_registry_synth",
+      "slug": "hfpef-registry-synth-82",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "idea12",
+      "slug": "idea12-92",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "IPD Zahid",
+      "slug": "ipd-zahid-60",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "ipd-meta-pro-link",
+      "slug": "ipd-meta-pro-link-94",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "ipd_qma_project",
+      "slug": "ipd-qma-project-95",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "KMcurve",
+      "slug": "kmcurve-45",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "LivingMeta Watchman",
+      "slug": "livingmeta-watchman-69",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "llm-meta-analysis",
+      "slug": "llm-meta-analysis-81",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MAFI",
+      "slug": "mafi-88",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MAFI-Continuation",
+      "slug": "mafi-continuation-89",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "maxent-reconstructor",
+      "slug": "maxent-reconstructor-90",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MetaFusion-Lab",
+      "slug": "metafusion-lab-100",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "MLM501",
+      "slug": "mlm501-87",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Multipledatameta",
+      "slug": "multipledatameta-103",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "new-app",
+      "slug": "new-app-73d",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "oman",
+      "slug": "oman-73b",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "rayyanreplacement",
+      "slug": "rayyanreplacement-72",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "registry_first_rct_meta",
+      "slug": "registry-first-rct-meta-84",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Stories",
+      "slug": "stories-78",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "superapp",
+      "slug": "superapp-73c",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "surroNMA",
+      "slug": "surronma-99",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "tower",
+      "slug": "tower-98",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "Tricuspid TEER",
+      "slug": "tricuspid-teer-71",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    },
+    {
+      "project": "waternajia",
+      "slug": "waternajia-77",
+      "defaultRoles": [
+        "Conceptualization",
+        "Project administration",
+        "Methodology",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "notes": "Assign named contributors to these roles before DOI registration."
+    }
+  ]
+}

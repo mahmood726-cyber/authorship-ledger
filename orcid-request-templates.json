@@ -1,0 +1,1881 @@
+{
+  "generatedAt": "2026-03-30T20:08:12+00:00",
+  "items": [
+    {
+      "project": "AdaptSim",
+      "slug": "adaptsim-6",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/adaptsim-6.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/adaptsim-6.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for AdaptSim, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Al-Mizan",
+      "slug": "al-mizan-4",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/al-mizan-4.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/al-mizan-4.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Al-Mizan, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Bias Forensics",
+      "slug": "bias-forensics-5",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/bias-forensics-5.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/bias-forensics-5.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Bias Forensics, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "CardioOracle",
+      "slug": "cardiooracle-1",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cardiooracle-1.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/cardiooracle-1.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for CardioOracle, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaReproducer",
+      "slug": "metareproducer-3",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metareproducer-3.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metareproducer-3.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaReproducer, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "501MLM",
+      "slug": "501mlm-23",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/501mlm-23.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/501mlm-23.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for 501MLM, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "501MLM_Submission",
+      "slug": "501mlm-submission-37b",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/501mlm-submission-37b.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/501mlm-submission-37b.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for 501MLM_Submission, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Asa",
+      "slug": "asa-63",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-63.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/asa-63.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Asa, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "AutoGRADE",
+      "slug": "autograde-54",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/autograde-54.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/autograde-54.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for AutoGRADE, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Bayesian MA",
+      "slug": "bayesian-ma-109",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/bayesian-ma-109.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/bayesian-ma-109.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Bayesian MA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "BenfordMA",
+      "slug": "benfordma-107",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/benfordma-107.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/benfordma-107.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for BenfordMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "CausalSynth",
+      "slug": "causalsynth-39",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/causalsynth-39.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/causalsynth-39.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for CausalSynth, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Clinic Site",
+      "slug": "clinic-site-74",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-site-74.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/clinic-site-74.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Clinic Site, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Clinic Website",
+      "slug": "clinic-website-7",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-website-7.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/clinic-website-7.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Clinic Website, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "CRES",
+      "slug": "cres-24",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cres-24.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/cres-24.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for CRES, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "cv-rct-analysis",
+      "slug": "cv-rct-analysis-67",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cv-rct-analysis-67.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/cv-rct-analysis-67.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for cv-rct-analysis, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "DTA Pro",
+      "slug": "dta-pro-10",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta-pro-10.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/dta-pro-10.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for DTA Pro, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "EvidenceQuality (Concordance)",
+      "slug": "evidencequality-concordance-105",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencequality-concordance-105.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/evidencequality-concordance-105.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for EvidenceQuality (Concordance), provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "GRMA",
+      "slug": "grma-28",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/grma-28.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/grma-28.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for GRMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "GWAM",
+      "slug": "gwam-26",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/gwam-26.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/gwam-26.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for GWAM, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "HeterogeneityASE",
+      "slug": "heterogeneityase-22",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/heterogeneityase-22.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/heterogeneityase-22.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for HeterogeneityASE, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "HTA Artifact Standard",
+      "slug": "hta-artifact-standard-11",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-artifact-standard-11.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/hta-artifact-standard-11.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for HTA Artifact Standard, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "HTA Evidence Integrity",
+      "slug": "hta-evidence-integrity-49",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-evidence-integrity-49.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/hta-evidence-integrity-49.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for HTA Evidence Integrity, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "HTA Oman",
+      "slug": "hta-oman-53",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-oman-53.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/hta-oman-53.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for HTA Oman, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "HTA Transportability",
+      "slug": "hta-transportability-50",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-transportability-50.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/hta-transportability-50.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for HTA Transportability, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "HTA Unified Intel",
+      "slug": "hta-unified-intel-52",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-unified-intel-52.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/hta-unified-intel-52.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for HTA Unified Intel, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "IPD-Meta-Pro",
+      "slug": "ipd-meta-pro-9",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-meta-pro-9.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ipd-meta-pro-9.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for IPD-Meta-Pro, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "IPD-QMA",
+      "slug": "ipd-qma-25",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-25.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ipd-qma-25.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for IPD-QMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "LFA (cbamm)",
+      "slug": "lfa-cbamm-37a",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/lfa-cbamm-37a.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/lfa-cbamm-37a.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for LFA (cbamm), provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Living MA Engine",
+      "slug": "living-ma-engine-73f",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-ma-engine-73f.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/living-ma-engine-73f.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Living MA Engine, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Living-Meta",
+      "slug": "living-meta-15",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-meta-15.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/living-meta-15.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Living-Meta, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MA Power",
+      "slug": "ma-power-106",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-power-106.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ma-power-106.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MA Power, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MA Workbench",
+      "slug": "ma-workbench-110",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-workbench-110.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ma-workbench-110.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MA Workbench, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MAPriors",
+      "slug": "mapriors-40",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mapriors-40.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/mapriors-40.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MAPriors, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Meta-Regression",
+      "slug": "meta-regression-113",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/meta-regression-113.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/meta-regression-113.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Meta-Regression, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaExtract",
+      "slug": "metaextract-65",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaextract-65.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metaextract-65.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaExtract, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaGuard",
+      "slug": "metaguard-79",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaguard-79.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metaguard-79.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaGuard, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "metaoverfit",
+      "slug": "metaoverfit-30",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaoverfit-30.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metaoverfit-30.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for metaoverfit, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "metaoverfit-paper",
+      "slug": "metaoverfit-paper-37c",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaoverfit-paper-37c.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metaoverfit-paper-37c.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for metaoverfit-paper, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaShift",
+      "slug": "metashift-108a",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metashift-108a.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metashift-108a.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaShift, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaSprint Autopilot",
+      "slug": "metasprint-autopilot-16",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-autopilot-16.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metasprint-autopilot-16.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaSprint Autopilot, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaSprint Cardio Universe",
+      "slug": "metasprint-cardio-universe-20",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-cardio-universe-20.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metasprint-cardio-universe-20.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaSprint Cardio Universe, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaSprint Dose-Response",
+      "slug": "metasprint-dose-response-19",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dose-response-19.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metasprint-dose-response-19.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaSprint Dose-Response, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaSprint DTA",
+      "slug": "metasprint-dta-17",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dta-17.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metasprint-dta-17.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaSprint DTA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaSprint NMA",
+      "slug": "metasprint-nma-18",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-nma-18.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metasprint-nma-18.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaSprint NMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "metaverse-robust-MA",
+      "slug": "metaverse-robust-ma-33",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaverse-robust-ma-33.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metaverse-robust-ma-33.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for metaverse-robust-MA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MLMResearch",
+      "slug": "mlmresearch-34",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mlmresearch-34.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/mlmresearch-34.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MLMResearch, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MultiverseMA",
+      "slug": "multiversema-38",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/multiversema-38.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/multiversema-38.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MultiverseMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "NMA apps",
+      "slug": "nma-apps-12",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/nma-apps-12.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/nma-apps-12.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for NMA apps, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "OutcomeReportingBias",
+      "slug": "outcomereportingbias-40a",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/outcomereportingbias-40a.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/outcomereportingbias-40a.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for OutcomeReportingBias, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "OverlapDetector",
+      "slug": "overlapdetector-40b",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/overlapdetector-40b.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/overlapdetector-40b.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for OverlapDetector, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Pairwise70",
+      "slug": "pairwise70-42",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise70-42.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/pairwise70-42.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Pairwise70, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Paper1 (cbamm)",
+      "slug": "paper1-cbamm-35",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/paper1-cbamm-35.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/paper1-cbamm-35.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Paper1 (cbamm), provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Pooling Suite",
+      "slug": "pooling-suite-112",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pooling-suite-112.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/pooling-suite-112.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Pooling Suite, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Portfolio Site",
+      "slug": "portfolio-site-73e",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/portfolio-site-73e.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/portfolio-site-73e.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Portfolio Site, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "PredictionGap",
+      "slug": "predictiongap-40c",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/predictiongap-40c.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/predictiongap-40c.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for PredictionGap, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "PRISMA Checker",
+      "slug": "prisma-checker-107",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prisma-checker-107.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/prisma-checker-107.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for PRISMA Checker, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Private Website",
+      "slug": "private-website-75",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/private-website-75.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/private-website-75.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Private Website, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Pub Bias Suite",
+      "slug": "pub-bias-suite-111",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pub-bias-suite-111.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/pub-bias-suite-111.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Pub Bias Suite, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "pub-bias-simulation",
+      "slug": "pub-bias-simulation-31",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pub-bias-simulation-31.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/pub-bias-simulation-31.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for pub-bias-simulation, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "RCT Extractor v2",
+      "slug": "rct-extractor-v2-41",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rct-extractor-v2-41.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/rct-extractor-v2-41.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for RCT Extractor v2, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "rmstnma",
+      "slug": "rmstnma-32",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rmstnma-32.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/rmstnma-32.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for rmstnma, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Shahzaib ICU",
+      "slug": "shahzaib-icu-58",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/shahzaib-icu-58.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/shahzaib-icu-58.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Shahzaib ICU, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "SYNTHESIS (FATIHA)",
+      "slug": "synthesis-fatiha-29",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-fatiha-29.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/synthesis-fatiha-29.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for SYNTHESIS (FATIHA), provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "TrialRadar",
+      "slug": "trialradar-64",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/trialradar-64.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/trialradar-64.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for TrialRadar, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "UBCMA",
+      "slug": "ubcma-106",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ubcma-106.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ubcma-106.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for UBCMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Value-Based HTA",
+      "slug": "value-based-hta-51",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/value-based-hta-51.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/value-based-hta-51.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Value-Based HTA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "wasserstein",
+      "slug": "wasserstein-37",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/wasserstein-37.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/wasserstein-37.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for wasserstein, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "ctgov-search-strategies",
+      "slug": "ctgov-search-strategies-66",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ctgov-search-strategies-66.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ctgov-search-strategies-66.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for ctgov-search-strategies, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Dose-Response NMA",
+      "slug": "dose-response-nma-13",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dose-response-nma-13.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/dose-response-nma-13.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Dose-Response NMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Finrenone RapidMeta",
+      "slug": "finrenone-rapidmeta-21",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/finrenone-rapidmeta-21.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/finrenone-rapidmeta-21.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Finrenone RapidMeta, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Fragility Atlas",
+      "slug": "fragility-atlas-2",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fragility-atlas-2.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/fragility-atlas-2.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Fragility Atlas, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Pairwise AI",
+      "slug": "pairwise-ai-14",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise-ai-14.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/pairwise-ai-14.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Pairwise AI, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Paper2",
+      "slug": "paper2-36",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/paper2-36.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/paper2-36.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Paper2, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "TruthCert PairwisePro",
+      "slug": "truthcert-pairwisepro-8",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/truthcert-pairwisepro-8.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/truthcert-pairwisepro-8.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for TruthCert PairwisePro, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Asa",
+      "slug": "asa-73a",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-73a.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/asa-73a.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Asa, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Burhan",
+      "slug": "burhan-59",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/burhan-59.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/burhan-59.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Burhan, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Component NMA",
+      "slug": "component-nma-103",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/component-nma-103.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/component-nma-103.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Component NMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "DTA70",
+      "slug": "dta70-48",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta70-48.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/dta70-48.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for DTA70, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Evidence Half-Life",
+      "slug": "evidence-half-life-108",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-half-life-108.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/evidence-half-life-108.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Evidence Half-Life, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaMethods",
+      "slug": "metamethods-80",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metamethods-80.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metamethods-80.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaMethods, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "repo300-ENMA-SNMA",
+      "slug": "repo300-enma-snma-47",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo300-enma-snma-47.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/repo300-enma-snma-47.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for repo300-ENMA-SNMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "RMST Meta",
+      "slug": "rmst-meta-104",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rmst-meta-104.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/rmst-meta-104.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for RMST Meta, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "RoB Assessor",
+      "slug": "rob-assessor-102",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rob-assessor-102.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/rob-assessor-102.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for RoB Assessor, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "WorldIPD",
+      "slug": "worldipd-61",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/worldipd-61.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/worldipd-61.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for WorldIPD, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "WorldIPD-private",
+      "slug": "worldipd-private-62",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/worldipd-private-62.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/worldipd-private-62.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for WorldIPD-private, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "EvidenceGapMap",
+      "slug": "evidencegapmap-40d",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencegapmap-40d.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/evidencegapmap-40d.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for EvidenceGapMap, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MEM (Meta Ecosystem)",
+      "slug": "mem-meta-ecosystem-27",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mem-meta-ecosystem-27.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/mem-meta-ecosystem-27.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MEM (Meta Ecosystem), provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "minireview",
+      "slug": "minireview-73",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/minireview-73.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/minireview-73.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for minireview, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Dataextractor",
+      "slug": "dataextractor-44",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dataextractor-44.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/dataextractor-44.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Dataextractor, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Fatiha Course v2",
+      "slug": "fatiha-course-v2-57",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-v2-57.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/fatiha-course-v2-57.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Fatiha Course v2, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "repo100",
+      "slug": "repo100-46",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo100-46.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/repo100-46.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for repo100, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "CochraneDataExtractor",
+      "slug": "cochranedataextractor-43",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cochranedataextractor-43.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/cochranedataextractor-43.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for CochraneDataExtractor, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "meta-epidemiology-bias-correction",
+      "slug": "meta-epidemiology-bias-correction-79",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/meta-epidemiology-bias-correction-79.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/meta-epidemiology-bias-correction-79.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for meta-epidemiology-bias-correction, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Metanew",
+      "slug": "metanew-86",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metanew-86.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metanew-86.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Metanew, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "PFA AF LivingMeta",
+      "slug": "pfa-af-livingmeta-70",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pfa-af-livingmeta-70.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/pfa-af-livingmeta-70.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for PFA AF LivingMeta, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "prognostic-meta",
+      "slug": "prognostic-meta-96",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prognostic-meta-96.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/prognostic-meta-96.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for prognostic-meta, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Synthesis Course",
+      "slug": "synthesis-course-55",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-course-55.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/synthesis-course-55.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Synthesis Course, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "3dvitreous-grapher",
+      "slug": "3dvitreous-grapher-68",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/3dvitreous-grapher-68.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/3dvitreous-grapher-68.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for 3dvitreous-grapher, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "advanced-nma-pooling",
+      "slug": "advanced-nma-pooling-97",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/advanced-nma-pooling-97.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/advanced-nma-pooling-97.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for advanced-nma-pooling, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "childnajia",
+      "slug": "childnajia-76",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/childnajia-76.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/childnajia-76.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for childnajia, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "claude-plugins",
+      "slug": "claude-plugins-102",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/claude-plugins-102.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/claude-plugins-102.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for claude-plugins, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "claude-rct-work",
+      "slug": "claude-rct-work-101",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/claude-rct-work-101.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/claude-rct-work-101.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for claude-rct-work, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "esc-acs-living-meta",
+      "slug": "esc-acs-living-meta-85",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/esc-acs-living-meta-85.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/esc-acs-living-meta-85.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for esc-acs-living-meta, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "everything-claude-code",
+      "slug": "everything-claude-code-93",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/everything-claude-code-93.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/everything-claude-code-93.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for everything-claude-code, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "evidence-inference",
+      "slug": "evidence-inference-80",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-inference-80.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/evidence-inference-80.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for evidence-inference, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "experimental-meta-analysis",
+      "slug": "experimental-meta-analysis-91",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/experimental-meta-analysis-91.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/experimental-meta-analysis-91.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for experimental-meta-analysis, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Fatiha Course",
+      "slug": "fatiha-course-56",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-56.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/fatiha-course-56.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Fatiha Course, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "glm-code",
+      "slug": "glm-code-104",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/glm-code-104.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/glm-code-104.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for glm-code, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "hfpef_registry_calibration",
+      "slug": "hfpef-registry-calibration-83",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hfpef-registry-calibration-83.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/hfpef-registry-calibration-83.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for hfpef_registry_calibration, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "hfpef_registry_synth",
+      "slug": "hfpef-registry-synth-82",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hfpef-registry-synth-82.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/hfpef-registry-synth-82.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for hfpef_registry_synth, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "idea12",
+      "slug": "idea12-92",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/idea12-92.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/idea12-92.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for idea12, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "IPD Zahid",
+      "slug": "ipd-zahid-60",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-zahid-60.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ipd-zahid-60.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for IPD Zahid, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "ipd-meta-pro-link",
+      "slug": "ipd-meta-pro-link-94",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-meta-pro-link-94.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ipd-meta-pro-link-94.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for ipd-meta-pro-link, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "ipd_qma_project",
+      "slug": "ipd-qma-project-95",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-project-95.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/ipd-qma-project-95.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for ipd_qma_project, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "KMcurve",
+      "slug": "kmcurve-45",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/kmcurve-45.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/kmcurve-45.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for KMcurve, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "LivingMeta Watchman",
+      "slug": "livingmeta-watchman-69",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/livingmeta-watchman-69.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/livingmeta-watchman-69.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for LivingMeta Watchman, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "llm-meta-analysis",
+      "slug": "llm-meta-analysis-81",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/llm-meta-analysis-81.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/llm-meta-analysis-81.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for llm-meta-analysis, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MAFI",
+      "slug": "mafi-88",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mafi-88.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/mafi-88.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MAFI, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MAFI-Continuation",
+      "slug": "mafi-continuation-89",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mafi-continuation-89.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/mafi-continuation-89.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MAFI-Continuation, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "maxent-reconstructor",
+      "slug": "maxent-reconstructor-90",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/maxent-reconstructor-90.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/maxent-reconstructor-90.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for maxent-reconstructor, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MetaFusion-Lab",
+      "slug": "metafusion-lab-100",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metafusion-lab-100.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/metafusion-lab-100.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MetaFusion-Lab, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "MLM501",
+      "slug": "mlm501-87",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mlm501-87.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/mlm501-87.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for MLM501, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Multipledatameta",
+      "slug": "multipledatameta-103",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/multipledatameta-103.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/multipledatameta-103.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Multipledatameta, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "new-app",
+      "slug": "new-app-73d",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/new-app-73d.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/new-app-73d.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for new-app, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "oman",
+      "slug": "oman-73b",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/oman-73b.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/oman-73b.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for oman, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "rayyanreplacement",
+      "slug": "rayyanreplacement-72",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rayyanreplacement-72.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/rayyanreplacement-72.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for rayyanreplacement, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "registry_first_rct_meta",
+      "slug": "registry-first-rct-meta-84",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/registry-first-rct-meta-84.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/registry-first-rct-meta-84.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for registry_first_rct_meta, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Stories",
+      "slug": "stories-78",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/stories-78.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/stories-78.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Stories, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "superapp",
+      "slug": "superapp-73c",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/superapp-73c.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/superapp-73c.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for superapp, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "surroNMA",
+      "slug": "surronma-99",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/surronma-99.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/surronma-99.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for surroNMA, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "tower",
+      "slug": "tower-98",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/tower-98.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/tower-98.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for tower, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "Tricuspid TEER",
+      "slug": "tricuspid-teer-71",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/tricuspid-teer-71.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/tricuspid-teer-71.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for Tricuspid TEER, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    },
+    {
+      "project": "waternajia",
+      "slug": "waternajia-77",
+      "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/waternajia-77.html",
+      "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/waternajia-77.html",
+      "requestedFields": [
+        "full_name",
+        "orcid_id",
+        "affiliation",
+        "email_or_contact_route",
+        "contributor_confirmation"
+      ],
+      "requestText": "Please confirm the human contributors for waternajia, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+    }
+  ]
+}

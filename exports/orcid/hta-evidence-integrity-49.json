@@ -1,0 +1,14 @@
+{
+  "project": "HTA Evidence Integrity",
+  "slug": "hta-evidence-integrity-49",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-evidence-integrity-49.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/hta-evidence-integrity-49.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for HTA Evidence Integrity, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

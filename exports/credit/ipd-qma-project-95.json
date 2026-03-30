@@ -1,0 +1,12 @@
+{
+  "project": "ipd_qma_project",
+  "slug": "ipd-qma-project-95",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

@@ -1,0 +1,14 @@
+{
+  "project": "Shahzaib ICU",
+  "slug": "shahzaib-icu-58",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/shahzaib-icu-58.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/shahzaib-icu-58.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for Shahzaib ICU, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

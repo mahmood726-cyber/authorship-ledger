@@ -1,0 +1,14 @@
+{
+  "project": "pub-bias-simulation",
+  "slug": "pub-bias-simulation-31",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pub-bias-simulation-31.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/pub-bias-simulation-31.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for pub-bias-simulation, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

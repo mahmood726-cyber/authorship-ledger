@@ -1,0 +1,14 @@
+{
+  "project": "Synthesis Course",
+  "slug": "synthesis-course-55",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-course-55.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/synthesis-course-55.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for Synthesis Course, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

@@ -1,0 +1,12 @@
+{
+  "project": "HTA Oman",
+  "slug": "hta-oman-53",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

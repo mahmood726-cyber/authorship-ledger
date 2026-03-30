@@ -1,0 +1,943 @@
+{
+  "generatedAt": "2026-03-30T20:08:12+00:00",
+  "items": [
+    {
+      "project": "AdaptSim",
+      "slug": "adaptsim-6",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Al-Mizan",
+      "slug": "al-mizan-4",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Bias Forensics",
+      "slug": "bias-forensics-5",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "CardioOracle",
+      "slug": "cardiooracle-1",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaReproducer",
+      "slug": "metareproducer-3",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "501MLM",
+      "slug": "501mlm-23",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "501MLM_Submission",
+      "slug": "501mlm-submission-37b",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Asa",
+      "slug": "asa-63",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "AutoGRADE",
+      "slug": "autograde-54",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Bayesian MA",
+      "slug": "bayesian-ma-109",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "BenfordMA",
+      "slug": "benfordma-107",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "CausalSynth",
+      "slug": "causalsynth-39",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Clinic Site",
+      "slug": "clinic-site-74",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Clinic Website",
+      "slug": "clinic-website-7",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "CRES",
+      "slug": "cres-24",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "cv-rct-analysis",
+      "slug": "cv-rct-analysis-67",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "DTA Pro",
+      "slug": "dta-pro-10",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "EvidenceQuality (Concordance)",
+      "slug": "evidencequality-concordance-105",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "GRMA",
+      "slug": "grma-28",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "GWAM",
+      "slug": "gwam-26",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "HeterogeneityASE",
+      "slug": "heterogeneityase-22",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "HTA Artifact Standard",
+      "slug": "hta-artifact-standard-11",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "HTA Evidence Integrity",
+      "slug": "hta-evidence-integrity-49",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "HTA Oman",
+      "slug": "hta-oman-53",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "HTA Transportability",
+      "slug": "hta-transportability-50",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "HTA Unified Intel",
+      "slug": "hta-unified-intel-52",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "IPD-Meta-Pro",
+      "slug": "ipd-meta-pro-9",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "IPD-QMA",
+      "slug": "ipd-qma-25",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "LFA (cbamm)",
+      "slug": "lfa-cbamm-37a",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Living MA Engine",
+      "slug": "living-ma-engine-73f",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Living-Meta",
+      "slug": "living-meta-15",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MA Power",
+      "slug": "ma-power-106",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MA Workbench",
+      "slug": "ma-workbench-110",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MAPriors",
+      "slug": "mapriors-40",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Meta-Regression",
+      "slug": "meta-regression-113",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaExtract",
+      "slug": "metaextract-65",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaGuard",
+      "slug": "metaguard-79",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "metaoverfit",
+      "slug": "metaoverfit-30",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "metaoverfit-paper",
+      "slug": "metaoverfit-paper-37c",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaShift",
+      "slug": "metashift-108a",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaSprint Autopilot",
+      "slug": "metasprint-autopilot-16",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaSprint Cardio Universe",
+      "slug": "metasprint-cardio-universe-20",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaSprint Dose-Response",
+      "slug": "metasprint-dose-response-19",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaSprint DTA",
+      "slug": "metasprint-dta-17",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaSprint NMA",
+      "slug": "metasprint-nma-18",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "metaverse-robust-MA",
+      "slug": "metaverse-robust-ma-33",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MLMResearch",
+      "slug": "mlmresearch-34",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MultiverseMA",
+      "slug": "multiversema-38",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "NMA apps",
+      "slug": "nma-apps-12",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "OutcomeReportingBias",
+      "slug": "outcomereportingbias-40a",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "OverlapDetector",
+      "slug": "overlapdetector-40b",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Pairwise70",
+      "slug": "pairwise70-42",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Paper1 (cbamm)",
+      "slug": "paper1-cbamm-35",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Pooling Suite",
+      "slug": "pooling-suite-112",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Portfolio Site",
+      "slug": "portfolio-site-73e",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "PredictionGap",
+      "slug": "predictiongap-40c",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "PRISMA Checker",
+      "slug": "prisma-checker-107",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Private Website",
+      "slug": "private-website-75",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Pub Bias Suite",
+      "slug": "pub-bias-suite-111",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "pub-bias-simulation",
+      "slug": "pub-bias-simulation-31",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "RCT Extractor v2",
+      "slug": "rct-extractor-v2-41",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "rmstnma",
+      "slug": "rmstnma-32",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Shahzaib ICU",
+      "slug": "shahzaib-icu-58",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "SYNTHESIS (FATIHA)",
+      "slug": "synthesis-fatiha-29",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "TrialRadar",
+      "slug": "trialradar-64",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "UBCMA",
+      "slug": "ubcma-106",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Value-Based HTA",
+      "slug": "value-based-hta-51",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "wasserstein",
+      "slug": "wasserstein-37",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "ctgov-search-strategies",
+      "slug": "ctgov-search-strategies-66",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Dose-Response NMA",
+      "slug": "dose-response-nma-13",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Finrenone RapidMeta",
+      "slug": "finrenone-rapidmeta-21",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Fragility Atlas",
+      "slug": "fragility-atlas-2",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Pairwise AI",
+      "slug": "pairwise-ai-14",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Paper2",
+      "slug": "paper2-36",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "TruthCert PairwisePro",
+      "slug": "truthcert-pairwisepro-8",
+      "recommendedLicense": "MIT",
+      "rationale": "Software-oriented default for public code release.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Asa",
+      "slug": "asa-73a",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Burhan",
+      "slug": "burhan-59",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Component NMA",
+      "slug": "component-nma-103",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "DTA70",
+      "slug": "dta70-48",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Evidence Half-Life",
+      "slug": "evidence-half-life-108",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaMethods",
+      "slug": "metamethods-80",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "repo300-ENMA-SNMA",
+      "slug": "repo300-enma-snma-47",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "RMST Meta",
+      "slug": "rmst-meta-104",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "RoB Assessor",
+      "slug": "rob-assessor-102",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "WorldIPD",
+      "slug": "worldipd-61",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "WorldIPD-private",
+      "slug": "worldipd-private-62",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "EvidenceGapMap",
+      "slug": "evidencegapmap-40d",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MEM (Meta Ecosystem)",
+      "slug": "mem-meta-ecosystem-27",
+      "recommendedLicense": "MIT",
+      "rationale": "Model artifacts in this portfolio usually behave like software.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "minireview",
+      "slug": "minireview-73",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Dataextractor",
+      "slug": "dataextractor-44",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Fatiha Course v2",
+      "slug": "fatiha-course-v2-57",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Text-oriented default for manuscripts and educational content.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "repo100",
+      "slug": "repo100-46",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "CochraneDataExtractor",
+      "slug": "cochranedataextractor-43",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "meta-epidemiology-bias-correction",
+      "slug": "meta-epidemiology-bias-correction-79",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Metanew",
+      "slug": "metanew-86",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "PFA AF LivingMeta",
+      "slug": "pfa-af-livingmeta-70",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "prognostic-meta",
+      "slug": "prognostic-meta-96",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Synthesis Course",
+      "slug": "synthesis-course-55",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Text-oriented default for manuscripts and educational content.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "3dvitreous-grapher",
+      "slug": "3dvitreous-grapher-68",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "advanced-nma-pooling",
+      "slug": "advanced-nma-pooling-97",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "childnajia",
+      "slug": "childnajia-76",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "claude-plugins",
+      "slug": "claude-plugins-102",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "claude-rct-work",
+      "slug": "claude-rct-work-101",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "esc-acs-living-meta",
+      "slug": "esc-acs-living-meta-85",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "everything-claude-code",
+      "slug": "everything-claude-code-93",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "evidence-inference",
+      "slug": "evidence-inference-80",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "experimental-meta-analysis",
+      "slug": "experimental-meta-analysis-91",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Fatiha Course",
+      "slug": "fatiha-course-56",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Text-oriented default for manuscripts and educational content.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "glm-code",
+      "slug": "glm-code-104",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "hfpef_registry_calibration",
+      "slug": "hfpef-registry-calibration-83",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "hfpef_registry_synth",
+      "slug": "hfpef-registry-synth-82",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "idea12",
+      "slug": "idea12-92",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "IPD Zahid",
+      "slug": "ipd-zahid-60",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "ipd-meta-pro-link",
+      "slug": "ipd-meta-pro-link-94",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "ipd_qma_project",
+      "slug": "ipd-qma-project-95",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "KMcurve",
+      "slug": "kmcurve-45",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "LivingMeta Watchman",
+      "slug": "livingmeta-watchman-69",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "llm-meta-analysis",
+      "slug": "llm-meta-analysis-81",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MAFI",
+      "slug": "mafi-88",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MAFI-Continuation",
+      "slug": "mafi-continuation-89",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "maxent-reconstructor",
+      "slug": "maxent-reconstructor-90",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MetaFusion-Lab",
+      "slug": "metafusion-lab-100",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "MLM501",
+      "slug": "mlm501-87",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Multipledatameta",
+      "slug": "multipledatameta-103",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "new-app",
+      "slug": "new-app-73d",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "oman",
+      "slug": "oman-73b",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "rayyanreplacement",
+      "slug": "rayyanreplacement-72",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "registry_first_rct_meta",
+      "slug": "registry-first-rct-meta-84",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Stories",
+      "slug": "stories-78",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "superapp",
+      "slug": "superapp-73c",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "surroNMA",
+      "slug": "surronma-99",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "tower",
+      "slug": "tower-98",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "Tricuspid TEER",
+      "slug": "tricuspid-teer-71",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    },
+    {
+      "project": "waternajia",
+      "slug": "waternajia-77",
+      "recommendedLicense": "CC-BY-4.0",
+      "rationale": "Project records default to a content-style recommendation until code scope is clarified.",
+      "currentState": "unresolved"
+    }
+  ]
+}

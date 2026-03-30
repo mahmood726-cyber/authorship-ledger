@@ -1,0 +1,14 @@
+{
+  "project": "MEM (Meta Ecosystem)",
+  "slug": "mem-meta-ecosystem-27",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mem-meta-ecosystem-27.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/mem-meta-ecosystem-27.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for MEM (Meta Ecosystem), provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

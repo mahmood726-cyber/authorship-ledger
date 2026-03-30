@@ -1,0 +1,12 @@
+{
+  "project": "metaverse-robust-MA",
+  "slug": "metaverse-robust-ma-33",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

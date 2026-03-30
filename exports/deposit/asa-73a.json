@@ -1,0 +1,40 @@
+{
+  "state": "awaiting-authorship",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Asa"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Model",
+    "resourceType": "Model"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-73a.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "MIT",
+      "rights": "MIT"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-73a.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/asa-73a.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/asa-73a.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

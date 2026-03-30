@@ -1,0 +1,7 @@
+{
+  "project": "HTA Artifact Standard",
+  "slug": "hta-artifact-standard-11",
+  "recommendedLicense": "MIT",
+  "rationale": "Software-oriented default for public code release.",
+  "currentState": "unresolved"
+}

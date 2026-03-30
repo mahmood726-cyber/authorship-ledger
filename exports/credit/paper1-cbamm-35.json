@@ -1,0 +1,12 @@
+{
+  "project": "Paper1 (cbamm)",
+  "slug": "paper1-cbamm-35",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

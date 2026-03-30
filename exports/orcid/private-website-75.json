@@ -1,0 +1,14 @@
+{
+  "project": "Private Website",
+  "slug": "private-website-75",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/private-website-75.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/private-website-75.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for Private Website, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

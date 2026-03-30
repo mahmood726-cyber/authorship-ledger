@@ -1,0 +1,14 @@
+{
+  "project": "Al-Mizan",
+  "slug": "al-mizan-4",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/al-mizan-4.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/al-mizan-4.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for Al-Mizan, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

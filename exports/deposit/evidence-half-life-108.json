@@ -1,0 +1,40 @@
+{
+  "state": "awaiting-authorship",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Evidence Half-Life"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Root-level project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-half-life-108.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "CC-BY-4.0",
+      "rights": "CC-BY-4.0"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-half-life-108.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/evidence-half-life-108.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/evidence-half-life-108.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

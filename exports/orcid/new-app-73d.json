@@ -1,0 +1,14 @@
+{
+  "project": "new-app",
+  "slug": "new-app-73d",
+  "recordUrl": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/new-app-73d.html",
+  "packetUrl": "https://mahmood726-cyber.github.io/citation-workbench/packets/new-app-73d.html",
+  "requestedFields": [
+    "full_name",
+    "orcid_id",
+    "affiliation",
+    "email_or_contact_route",
+    "contributor_confirmation"
+  ],
+  "requestText": "Please confirm the human contributors for new-app, provide ORCID identifiers for each named creator, and confirm consent for DOI deposit metadata publication."
+}

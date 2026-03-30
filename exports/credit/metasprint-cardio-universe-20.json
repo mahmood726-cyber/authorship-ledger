@@ -1,0 +1,12 @@
+{
+  "project": "MetaSprint Cardio Universe",
+  "slug": "metasprint-cardio-universe-20",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

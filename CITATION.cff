@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use AuthorshipLedger, please cite it using the metadata below."
+title: "AuthorshipLedger"
+type: software
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "Static DOI-deposit and contributor-resolution dashboard for the indexed C-drive research portfolio."
+url: "https://mahmood726-cyber.github.io/authorship-ledger/"
+repository-code: "https://github.com/mahmood726-cyber/authorship-ledger"
+license: "NOASSERTION"

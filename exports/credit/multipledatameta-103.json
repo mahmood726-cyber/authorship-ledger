@@ -1,0 +1,12 @@
+{
+  "project": "Multipledatameta",
+  "slug": "multipledatameta-103",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

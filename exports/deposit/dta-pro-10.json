@@ -1,0 +1,40 @@
+{
+  "state": "institutional-draft-ready",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational",
+      "status": "fallback-steward"
+    }
+  ],
+  "titles": [
+    {
+      "title": "DTA Pro"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Software",
+    "resourceType": "HTML app"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta-pro-10.html",
+  "version": "draft-authorship-ledger",
+  "rightsList": [
+    {
+      "rightsIdentifier": "MIT",
+      "rights": "MIT"
+    }
+  ],
+  "relatedUrls": {
+    "portfolioCatalog": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta-pro-10.html",
+    "citationPacket": "https://mahmood726-cyber.github.io/citation-workbench/packets/dta-pro-10.html",
+    "citationCff": "https://mahmood726-cyber.github.io/citation-workbench/exports/cff/dta-pro-10.cff"
+  },
+  "unresolvedRequirements": [
+    "named human creators",
+    "ORCID identifiers",
+    "confirmed CRediT roles",
+    "asserted final license"
+  ]
+}

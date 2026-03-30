@@ -1,0 +1,12 @@
+{
+  "project": "MLM501",
+  "slug": "mlm501-87",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

@@ -1,0 +1,12 @@
+{
+  "project": "Paper2",
+  "slug": "paper2-36",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

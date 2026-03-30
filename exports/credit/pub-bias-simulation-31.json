@@ -1,0 +1,12 @@
+{
+  "project": "pub-bias-simulation",
+  "slug": "pub-bias-simulation-31",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

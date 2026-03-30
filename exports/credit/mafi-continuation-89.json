@@ -1,0 +1,12 @@
+{
+  "project": "MAFI-Continuation",
+  "slug": "mafi-continuation-89",
+  "defaultRoles": [
+    "Conceptualization",
+    "Project administration",
+    "Methodology",
+    "Validation",
+    "Writing - original draft"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}

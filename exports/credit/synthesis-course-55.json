@@ -1,0 +1,11 @@
+{
+  "project": "Synthesis Course",
+  "slug": "synthesis-course-55",
+  "defaultRoles": [
+    "Conceptualization",
+    "Investigation",
+    "Writing - original draft",
+    "Writing - review & editing"
+  ],
+  "notes": "Assign named contributors to these roles before DOI registration."
+}
