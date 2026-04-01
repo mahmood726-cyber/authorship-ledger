@@ -1,11 +1,59 @@
 {
   "title": "AuthorshipLedger: DOI Deposit and Contributor Resolution for the C Drive Portfolio",
   "slug": "authorship-ledger",
+  "author": "M. Mahmood",
   "date": "2026-03-30",
-  "path": ".",
+  "body": "Can public citation packets safely reach real DOI registration without resolving human metadata first? We reused bundled CitationWorkbench records and packet links for all 134 indexed projects. AuthorshipLedger v0.1 generated deposit drafts, ORCID intake templates, CRediT role templates, and SPDX-style license recommendations while separating institutional draft readiness from true registry readiness. High workflow readiness reached 64.2 percent (86 of 134 projects), and institutional draft readiness reached 50.7 percent (68 of 134), but fully registrable deposits remained 0.0 percent because no project yet preserved named human creators, ORCID identifiers, confirmed CRediT roles, or asserted final licenses. Journal targets were preserved for only 4.5 percent of records, making authorship and governance, not DataCite core fields, the true next bottleneck. This turns the next portfolio task into contributor and licensing resolution rather than further metadata generation. The ledger clarifies the queue, but it still relies on heuristic role templates, institutional fallback creators, and cannot authorize DOI registration by itself.",
+  "word_count": 156,
+  "sentence_count": 7,
+  "sentences": [],
+  "notes": {},
   "type": "methods",
   "primary_estimand": "proportion of indexed projects reaching full DOI-registrable state",
-  "certainty": "moderate",
-  "summary": "Governance and deposit queue over 134 indexed projects, generating ORCID, CRediT, and license scaffolds with 68 institutional drafts ready but 0 fully registrable deposits.",
-  "body": "Can public citation packets safely reach real DOI registration without resolving human metadata first? We reused bundled CitationWorkbench records and packet links for all 134 indexed projects. AuthorshipLedger v0.1 generated deposit drafts, ORCID intake templates, CRediT role templates, and SPDX-style license recommendations while separating institutional draft readiness from true registry readiness. High workflow readiness reached 64.2 percent (86 of 134 projects), and institutional draft readiness reached 50.7 percent (68 of 134), but fully registrable deposits remained 0.0 percent because no project yet preserved named human creators, ORCID identifiers, confirmed CRediT roles, or asserted final licenses. Journal targets were preserved for only 4.5 percent of records, making authorship and governance, not DataCite core fields, the true next bottleneck. This turns the next portfolio task into contributor and licensing resolution rather than further metadata generation. The ledger clarifies the queue, but it still relies on heuristic role templates, institutional fallback creators, and cannot authorize DOI registration by itself."
+  "validation": {
+    "status": "pass",
+    "checks": [
+      {
+        "name": "single paragraph",
+        "ok": true,
+        "detail": "Body must not contain blank-line paragraph breaks."
+      },
+      {
+        "name": "sentence count",
+        "ok": true,
+        "detail": "Found 7 sentences."
+      },
+      {
+        "name": "word count",
+        "ok": true,
+        "detail": "Found 156 words."
+      },
+      {
+        "name": "no headings",
+        "ok": true,
+        "detail": "No markdown headings allowed in body."
+      },
+      {
+        "name": "no links",
+        "ok": true,
+        "detail": "No links or DOI links allowed in body."
+      },
+      {
+        "name": "result sentence has interval",
+        "ok": true,
+        "detail": "Sentence 4 should include a quantitative result such as a percentage, count, or interval."
+      },
+      {
+        "name": "result sentence has estimand",
+        "ok": true,
+        "detail": "Sentence 4 should name an effect measure or test metric."
+      },
+      {
+        "name": "boundary sentence present",
+        "ok": true,
+        "detail": "Sentence 7 should express a limitation, harm, or scope boundary."
+      }
+    ]
+  },
+  "schema": "e156-v0.2"
 }
