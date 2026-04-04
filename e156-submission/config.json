@@ -2,7 +2,7 @@
   "title": "AuthorshipLedger: DOI Deposit and Contributor Resolution for the C Drive Portfolio",
   "slug": "authorship-ledger",
   "date": "2026-03-30",
-  "path": "/mnt/c/Users/user/AuthorshipLedger",
+  "path": "C:\\Users\\user\\AuthorshipLedger",
   "type": "methods",
   "primary_estimand": "proportion of indexed projects reaching full DOI-registrable state",
   "certainty": "moderate",
