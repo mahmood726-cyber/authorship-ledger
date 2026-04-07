@@ -1,4 +1,6 @@
-M. Mahmood
+Mahmood Ahmad
+Tahir Heart Institute
+mahmood.ahmad2@nhs.net
 
 AuthorshipLedger: DOI Deposit and Contributor Resolution for the C Drive Portfolio
 

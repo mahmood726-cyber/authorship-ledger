@@ -1,106 +1,46 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AuthorshipLedger</title>
-  <meta name="description" content="DOI deposit queue and contributor-resolution dashboard for the indexed C-drive research portfolio.">
-  <link rel="stylesheet" href="styles.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AuthorshipLedger: DOI Deposit and Contributor Resolution for the C Drive Portfolio</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Georgia,serif;background:#FDFCFA;color:#1a1a1a;line-height:1.7}
+.page{max-width:700px;margin:0 auto;padding:3rem 1.5rem}
+.badge{font-family:system-ui,sans-serif;font-size:.6rem;font-weight:700;letter-spacing:.25em;text-transform:uppercase;color:#7A5A10;margin-bottom:1rem}
+h1{font-size:1.8rem;margin-bottom:.5rem}
+.meta{font-family:system-ui,sans-serif;font-size:.85rem;color:#777;margin-bottom:1.5rem;padding-bottom:1rem;border-bottom:2px solid #E5E0D6}
+.summary{font-size:1.05rem;margin-bottom:2rem;color:#444}
+.links{display:grid;gap:.8rem;margin-bottom:2rem}
+.card{display:block;padding:1rem 1.2rem;background:#fff;border:1px solid #E5E0D6;border-radius:8px;text-decoration:none;color:#1a1a1a;font-family:system-ui,sans-serif;font-size:.9rem;transition:border-color .2s,box-shadow .2s}
+.card:hover{border-color:#7A5A10;box-shadow:0 2px 12px rgba(0,0,0,.06)}
+.card.app{border-left:4px solid #2E86C1}
+.figs{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;margin-bottom:2rem}
+.figs img{width:100%;border-radius:6px;border:1px solid #E5E0D6}
+.footer{font-family:system-ui,sans-serif;font-size:.7rem;color:#aaa;padding-top:1rem;border-top:1px solid #E5E0D6}
+.footer a{color:#2E6B8A}
+</style>
 </head>
 <body>
-  <div class="page-shell">
-    <header class="hero">
-      <div>
-        <p class="eyebrow">Governance Layer</p>
-        <h1>AuthorshipLedger</h1>
-        <p class="hero-text">
-          A static deposit queue over the indexed C-drive portfolio, separating records that can be drafted today
-          from records that still need human creator names, ORCID identifiers, CRediT roles, and asserted licenses.
-        </p>
-      </div>
-      <div class="hero-links" id="export-links"></div>
-    </header>
+<div class="page">
+  <div class="badge">E156 Project</div>
+  <h1>AuthorshipLedger: DOI Deposit and Contributor Resolution for the C Drive Portfolio</h1>
+  <div class="meta">Mahmood Ahmad &middot; Methods &middot; 2026</div>
+  <p class="summary">Governance and deposit queue over 134 indexed projects, generating ORCID, CRediT, and license scaffolds with 68 institutional drafts ready but 0 fully registrable deposits.</p>
+  <div class="links">
+    <a href="e156-submission/index.html" class="card">E156 Micro-Paper (interactive reader)</a>
+    <a href="e156-submission/assets/dashboard.html" class="card app">Dashboard (interactive app)</a>
+    <a href="e156-submission/assets/dashboard.html" class="card">Project Dashboard</a>
+    <a href="e156-submission/paper.md" class="card">Paper (markdown)</a>
+    <a href="e156-submission/protocol.md" class="card">Protocol (markdown)</a>
 
-    <main class="content-grid">
-      <section class="panel">
-        <div class="section-head">
-          <p class="eyebrow">Coverage</p>
-          <h2>Governance Metrics</h2>
-        </div>
-        <div class="metric-grid" id="metric-grid"></div>
-      </section>
-
-      <section class="panel">
-        <div class="section-head">
-          <p class="eyebrow">Blocking Gaps</p>
-          <h2>What Still Blocks Registration</h2>
-        </div>
-        <div class="chip-grid" id="gap-grid"></div>
-      </section>
-
-      <section class="panel">
-        <div class="section-head">
-          <p class="eyebrow">Tier Pattern</p>
-          <h2>Workflow Readiness By Tier</h2>
-        </div>
-        <div class="table-wrap">
-          <table>
-            <thead>
-              <tr>
-                <th>Tier</th>
-                <th>Projects</th>
-                <th>Mean Score</th>
-                <th>Institutional Drafts</th>
-              </tr>
-            </thead>
-            <tbody id="tier-table"></tbody>
-          </table>
-        </div>
-      </section>
-
-      <section class="panel panel-wide">
-        <div class="section-head">
-          <p class="eyebrow">Search</p>
-          <h2>Deposit Queue</h2>
-        </div>
-        <form class="filter-bar">
-          <label>
-            <span>Search</span>
-            <input id="search-input" type="search" placeholder="Project, type, tier, journal">
-          </label>
-          <label>
-            <span>State</span>
-            <select id="state-select">
-              <option value="">All states</option>
-              <option value="institutional-draft-ready">Institutional draft ready</option>
-              <option value="awaiting-authorship">Awaiting authorship</option>
-              <option value="awaiting-release">Awaiting release</option>
-            </select>
-          </label>
-          <label>
-            <span>Band</span>
-            <select id="band-select">
-              <option value="">All bands</option>
-              <option value="high">High</option>
-              <option value="medium">Medium</option>
-              <option value="low">Low</option>
-            </select>
-          </label>
-          <label>
-            <span>Sort</span>
-            <select id="sort-select">
-              <option value="score">Workflow score</option>
-              <option value="name">Name</option>
-            </select>
-          </label>
-        </form>
-        <p class="results-copy" id="results-copy"></p>
-        <div class="project-grid" id="project-grid"></div>
-      </section>
-    </main>
   </div>
-
-  <script src="data.js"></script>
-  <script src="app.js"></script>
+  
+  <div class="footer">
+    <a href="https://github.com/mahmood726-cyber/authorshipledger">&larr; Source on GitHub</a>
+    &middot; <a href="https://mahmood726-cyber.github.io/">All Projects</a>
+  </div>
+</div>
 </body>
 </html>
