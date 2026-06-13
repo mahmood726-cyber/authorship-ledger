@@ -31,7 +31,7 @@ The portfolio now has public landing pages and citation packets, but it still la
 
 Run:
 
-`python C:\Users\user\AuthorshipLedger\scripts\build_authorship_ledger.py`
+`python scripts/build_authorship_ledger.py`
 
 ## Scope note
 

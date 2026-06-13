@@ -413,6 +413,8 @@ def main() -> None:
 
     records.sort(key=lambda row: (-row["workflowReadinessScore"], row["name"].lower(), row["id"]))
     tracked = len(records)
+    if tracked == 0:
+        raise ValueError("Source data contains no projects; cannot build ledger.")
     high_ready = sum(row["workflowReadinessScore"] >= 80 for row in records)
     medium_or_high = sum(row["workflowReadinessScore"] >= 60 for row in records)
     institutional_ready = sum(row["institutionalDraftReady"] for row in records)
